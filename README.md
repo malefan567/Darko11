@@ -7,6 +7,7 @@ A modded windows 11 23h2 for better experience no bloatware and anything else is
 
 
 Official Download Links
+
 [Beta Build Modded](
 
 
@@ -19,4 +20,5 @@ Have 4 GB Memory
 
 ### Best of GPU choice?!
 Nvidia RTX 4050
+
 AMD Radeon™ RX 9060 XT
