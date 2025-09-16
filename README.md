@@ -6,11 +6,6 @@ A modded windows 11 23h2 for better experience no bloatware and anything else is
 
 
 
-Official Download Links
-
-[Beta Build Modded](
-
-
 
 ### System Requirements
 
